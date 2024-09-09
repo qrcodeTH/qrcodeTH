@@ -1,7 +1,7 @@
 ### Hi , I'm EQ 👋
 - 🔭 I’m currently a Computer Engineering student at Chulalongkorn University.
-- 🌱 I’m currently learning Machine Learning, Data Science and Information Retrieval
-- 👯 I’m looking to collaborate on Collaborative efforts in Deep Learning and Recommendation systems
+- 🌱 I’m currently learning Machine Learning, Data Science and Recommendation System
+- 👀 I’m looking to collaborate on Collaborative efforts in Deep Learning and Recommendation System
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love Basketball 🏀 and Music 🎵
 
