@@ -1,6 +1,6 @@
 ### Hi , I'm EQ 👋
 - 🔭 I’m currently a Computer Engineering student at Chulalongkorn University.
-- 🌱 I’m currently learning Machine Learning, LLMs Agentic AI and Recommendation System
+- 🌱 I’m currently learning Machine Learning, LLMs, Agentic AI and Recommendation System
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love Basketball 🏀 and Music 🎵
 
